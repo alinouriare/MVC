@@ -1,0 +1,13 @@
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\CSRF\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\CSRF\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\CSRF\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\CSRF\bin\Debug\netcoreapp2.1\CSRF.deps.json
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\CSRF\bin\Debug\netcoreapp2.1\CSRF.runtimeconfig.json
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\CSRF\bin\Debug\netcoreapp2.1\CSRF.runtimeconfig.dev.json
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\CSRF\bin\Debug\netcoreapp2.1\CSRF.dll
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\CSRF\obj\Debug\netcoreapp2.1\CSRF.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\CSRF\obj\Debug\netcoreapp2.1\CSRF.AssemblyInfo.cs
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\CSRF\obj\Debug\netcoreapp2.1\CSRF.csprojAssemblyReference.cache
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\CSRF\bin\Debug\netcoreapp2.1\CSRF.pdb
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\CSRF\obj\Debug\netcoreapp2.1\CSRF.dll
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\CSRF\obj\Debug\netcoreapp2.1\CSRF.pdb

@@ -1,0 +1,23 @@
+﻿@model string[]
+@{
+    Layout = null;
+}
+
+    <form method="post" asp-action="Names">
+
+        @for (int i = 0; i < 3; i++)
+        {
+            <div class="form-group">
+                <label>Name @(i + 1)</label>
+                <input id="names" name="fullName" />
+            </div>
+
+            <div class="form-group">
+                <label>
+                    Name @(i + 1)
+                    <input type="checkbox" value="@i" id="check" name="Checked" />
+                </label>
+            </div>
+        }
+        <button type="submit" class="btn btn-success"> submit</button>
+    </form>

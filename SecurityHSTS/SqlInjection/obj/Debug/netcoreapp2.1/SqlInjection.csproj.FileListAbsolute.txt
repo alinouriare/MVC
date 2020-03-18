@@ -1,0 +1,13 @@
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\SqlInjection\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\SqlInjection\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\SqlInjection\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\SqlInjection\bin\Debug\netcoreapp2.1\SqlInjection.deps.json
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\SqlInjection\bin\Debug\netcoreapp2.1\SqlInjection.runtimeconfig.json
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\SqlInjection\bin\Debug\netcoreapp2.1\SqlInjection.runtimeconfig.dev.json
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\SqlInjection\bin\Debug\netcoreapp2.1\SqlInjection.dll
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\SqlInjection\bin\Debug\netcoreapp2.1\SqlInjection.pdb
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\SqlInjection\obj\Debug\netcoreapp2.1\SqlInjection.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\SqlInjection\obj\Debug\netcoreapp2.1\SqlInjection.AssemblyInfo.cs
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\SqlInjection\obj\Debug\netcoreapp2.1\SqlInjection.dll
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\SqlInjection\obj\Debug\netcoreapp2.1\SqlInjection.pdb
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\SqlInjection\obj\Debug\netcoreapp2.1\SqlInjection.csprojAssemblyReference.cache

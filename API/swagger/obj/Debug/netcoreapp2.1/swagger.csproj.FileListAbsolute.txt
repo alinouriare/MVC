@@ -1,0 +1,13 @@
+C:\Users\AliNouri\Desktop\Core\MVC\API\swagger\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\AliNouri\Desktop\Core\MVC\API\swagger\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\AliNouri\Desktop\Core\MVC\API\swagger\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\AliNouri\Desktop\Core\MVC\API\swagger\bin\Debug\netcoreapp2.1\swagger.deps.json
+C:\Users\AliNouri\Desktop\Core\MVC\API\swagger\bin\Debug\netcoreapp2.1\swagger.runtimeconfig.json
+C:\Users\AliNouri\Desktop\Core\MVC\API\swagger\bin\Debug\netcoreapp2.1\swagger.runtimeconfig.dev.json
+C:\Users\AliNouri\Desktop\Core\MVC\API\swagger\bin\Debug\netcoreapp2.1\swagger.dll
+C:\Users\AliNouri\Desktop\Core\MVC\API\swagger\obj\Debug\netcoreapp2.1\swagger.csprojAssemblyReference.cache
+C:\Users\AliNouri\Desktop\Core\MVC\API\swagger\obj\Debug\netcoreapp2.1\swagger.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\Core\MVC\API\swagger\obj\Debug\netcoreapp2.1\swagger.AssemblyInfo.cs
+C:\Users\AliNouri\Desktop\Core\MVC\API\swagger\bin\Debug\netcoreapp2.1\swagger.pdb
+C:\Users\AliNouri\Desktop\Core\MVC\API\swagger\obj\Debug\netcoreapp2.1\swagger.dll
+C:\Users\AliNouri\Desktop\Core\MVC\API\swagger\obj\Debug\netcoreapp2.1\swagger.pdb

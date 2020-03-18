@@ -1,0 +1,3 @@
+C:\Users\AliNouri\Desktop\Core\MVC\DICtest\.vs\DICtest\v16\lut\0\i\TestDIC\Debug\netcoreapp3.1\TestDIC.csprojAssemblyReference.cache
+C:\Users\AliNouri\Desktop\Core\MVC\DICtest\.vs\DICtest\v16\lut\0\i\TestDIC\Debug\netcoreapp3.1\TestDIC.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\Core\MVC\DICtest\.vs\DICtest\v16\lut\0\i\TestDIC\Debug\netcoreapp3.1\TestDIC.AssemblyInfo.cs

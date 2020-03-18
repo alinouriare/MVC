@@ -1,0 +1,75 @@
+﻿@model BlogHomePage
+@{
+
+    int day = 18;
+    string myhtml = "<h1>Hello Razor!</h1>";
+}
+@section SideMenu{
+
+
+    <ul>
+
+        <li>Home</li>
+
+        <li>About</li>
+        <li>ContactUs</li>
+
+    </ul>
+
+    @Html.Partial("_CommentList", Model.Comments)
+}
+
+@*@(day +1 )
+
+    <ol>
+        @for (int i = 0; i < day; i++)
+        {
+            <li>@i</li>
+        }
+    </ol>
+
+
+    @Html.Raw(myhtml)*@
+
+
+@Json.Serialize(Model)
+
+@functions {
+
+    public string SyHello() => "Hello";
+
+}
+
+@SyHello()
+
+
+<br />
+
+@*<h1>@await Component.InvokeAsync("Ads",new { prifixAdd="salam"})</h1>*@
+
+<vc:ads prifix-add="aaa">
+</vc:ads>
+
+<div aro-alert="true">
+    خطر
+
+</div>
+
+<card header-text="Header">
+
+    Body Text
+
+</card>
+
+
+<div class="card">
+
+    <div class="card-header">
+        Header
+    </div>
+
+    <div class="card-body">
+        Body
+    </div>
+</div>
+

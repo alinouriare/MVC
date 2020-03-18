@@ -1,0 +1,12 @@
+C:\Users\AliNouri\Desktop\Core\MVC\ViewAndHelper\ViewAndHelper\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\AliNouri\Desktop\Core\MVC\ViewAndHelper\ViewAndHelper\bin\Debug\netcoreapp2.1\ViewAndHelper.deps.json
+C:\Users\AliNouri\Desktop\Core\MVC\ViewAndHelper\ViewAndHelper\bin\Debug\netcoreapp2.1\ViewAndHelper.runtimeconfig.json
+C:\Users\AliNouri\Desktop\Core\MVC\ViewAndHelper\ViewAndHelper\bin\Debug\netcoreapp2.1\ViewAndHelper.runtimeconfig.dev.json
+C:\Users\AliNouri\Desktop\Core\MVC\ViewAndHelper\ViewAndHelper\bin\Debug\netcoreapp2.1\ViewAndHelper.dll
+C:\Users\AliNouri\Desktop\Core\MVC\ViewAndHelper\ViewAndHelper\obj\Debug\netcoreapp2.1\ViewAndHelper.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\Core\MVC\ViewAndHelper\ViewAndHelper\obj\Debug\netcoreapp2.1\ViewAndHelper.AssemblyInfo.cs
+C:\Users\AliNouri\Desktop\Core\MVC\ViewAndHelper\ViewAndHelper\bin\Debug\netcoreapp2.1\ViewAndHelper.pdb
+C:\Users\AliNouri\Desktop\Core\MVC\ViewAndHelper\ViewAndHelper\obj\Debug\netcoreapp2.1\ViewAndHelper.dll
+C:\Users\AliNouri\Desktop\Core\MVC\ViewAndHelper\ViewAndHelper\obj\Debug\netcoreapp2.1\ViewAndHelper.pdb
+C:\Users\AliNouri\Desktop\Core\MVC\ViewAndHelper\ViewAndHelper\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\AliNouri\Desktop\Core\MVC\ViewAndHelper\ViewAndHelper\obj\Debug\netcoreapp2.1\ViewAndHelper.csprojAssemblyReference.cache

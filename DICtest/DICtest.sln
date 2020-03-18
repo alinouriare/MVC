@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DICtest", "DICtest\DICtest.csproj", "{3AF88CF9-DBF0-470F-8335-B4B0748282A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDIC", "TestDIC\TestDIC.csproj", "{417B6FA9-123F-40A9-B873-0C9AE93E7960}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AF88CF9-DBF0-470F-8335-B4B0748282A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF88CF9-DBF0-470F-8335-B4B0748282A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF88CF9-DBF0-470F-8335-B4B0748282A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF88CF9-DBF0-470F-8335-B4B0748282A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{417B6FA9-123F-40A9-B873-0C9AE93E7960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{417B6FA9-123F-40A9-B873-0C9AE93E7960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{417B6FA9-123F-40A9-B873-0C9AE93E7960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{417B6FA9-123F-40A9-B873-0C9AE93E7960}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {453F12DE-E5EA-4FC1-B53C-E8081E46AA20}
+	EndGlobalSection
+EndGlobal

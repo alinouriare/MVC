@@ -1,0 +1,12 @@
+C:\Users\AliNouri\Desktop\Core\MVC\DICtest\DICtest\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\AliNouri\Desktop\Core\MVC\DICtest\DICtest\bin\Debug\netcoreapp2.1\DICtest.deps.json
+C:\Users\AliNouri\Desktop\Core\MVC\DICtest\DICtest\bin\Debug\netcoreapp2.1\DICtest.runtimeconfig.json
+C:\Users\AliNouri\Desktop\Core\MVC\DICtest\DICtest\bin\Debug\netcoreapp2.1\DICtest.runtimeconfig.dev.json
+C:\Users\AliNouri\Desktop\Core\MVC\DICtest\DICtest\bin\Debug\netcoreapp2.1\DICtest.dll
+C:\Users\AliNouri\Desktop\Core\MVC\DICtest\DICtest\bin\Debug\netcoreapp2.1\DICtest.pdb
+C:\Users\AliNouri\Desktop\Core\MVC\DICtest\DICtest\obj\Debug\netcoreapp2.1\DICtest.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\Core\MVC\DICtest\DICtest\obj\Debug\netcoreapp2.1\DICtest.AssemblyInfo.cs
+C:\Users\AliNouri\Desktop\Core\MVC\DICtest\DICtest\obj\Debug\netcoreapp2.1\DICtest.dll
+C:\Users\AliNouri\Desktop\Core\MVC\DICtest\DICtest\obj\Debug\netcoreapp2.1\DICtest.pdb
+C:\Users\AliNouri\Desktop\Core\MVC\DICtest\DICtest\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\AliNouri\Desktop\Core\MVC\DICtest\DICtest\obj\Debug\netcoreapp2.1\DICtest.csprojAssemblyReference.cache

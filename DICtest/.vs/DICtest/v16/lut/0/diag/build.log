@@ -1,0 +1,2 @@
+[13:20:05.839 Verbose] - BuildManager - C:\Users\AliNouri\Desktop\Core\MVC\DICtest\TestDIC\UnitTest1.cs(22,49): error CS7036: There is no argument given that corresponds to the required formal parameter 'transientService' of 'HomeController.HomeController(IScopeService, ITransientService, ISingletoneService)'
+[13:20:05.839 Verbose] - BuildManager - C:\Users\AliNouri\Desktop\Core\MVC\DICtest\TestDIC\UnitTest1.cs(26,73): error CS7036: There is no argument given that corresponds to the required formal parameter 'repository' of 'HomeController.Index(IRepository)'

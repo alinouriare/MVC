@@ -1,0 +1,101 @@
+﻿@model Person
+@{
+    ViewBag.Title = "Create Person";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/twitter-bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <title>Create</title>
+</head>
+<body>
+
+
+    <form method="post" asp-action="Create">
+
+        @*<div class="form-group">
+            <label for="PersonId">PersonId</label>
+            <input name="PersonId" class="form-group" />
+
+        </div>
+
+        <div class="form-group">
+            <label for="LastName">LastName</label>
+            <input name="LastName" class="form-group" />
+
+        </div>
+
+
+        <div class="form-group">
+            <label for="FirstName">FirstName</label>
+            <input name="FirstName" class="form-group" />
+
+        </div>
+
+
+        <div class="form-group">
+            <label for="HomeAddress.Line1">Line1</label>
+            <input name="HomeAddress.Line1" class="form-group" />
+
+        </div>*@
+
+        <div class="form-group">
+            <label asp-for="PersonId"></label>
+            <input asp-for="PersonId" class="form-group" />
+        </div>
+        <div class="form-group">
+            <label asp-for="LastName"></label>
+            <input asp-for="LastName" class="form-group" />
+        </div>
+        <div class="form-group">
+            <label asp-for="FirstName"></label>
+            <input asp-for="FirstName" class="form-group" />
+        </div>
+
+        @*<div class="form-group">
+            <label asp-for="HomeAddress.Line1"></label>
+            <input asp-for="HomeAddress.Line1" class="form-group" />
+        </div>*@
+        <div class="form-group">
+            <label asp-for="Role"></label>
+            <select asp-for="Role" class="form-group"
+                    asp-items="@new SelectList(Enum.GetNames(typeof(Role))) ">
+            </select>
+        </div>
+
+        <button type="submit" class="btn btn-primary"> Submit</button>
+
+    </form>
+
+
+
+    <div class="row col-md-10">
+        <form method="post" asp-action="DisplaySummary">
+
+            <div class="form-group">
+
+                <label asp-for="HomeAddress.City">City</label>
+                <input asp-for="HomeAddress.City" class="form-control" />
+
+
+            </div>
+
+            <div class="form-group">
+
+                <label asp-for="HomeAddress.Country">Country</label>
+                <input asp-for="HomeAddress.Country" class="form-control" />
+
+
+            </div>
+
+
+            <button type="submit" class="btn btn-success">Submit</button>
+        </form>
+
+    </div>
+</body>
+</html>

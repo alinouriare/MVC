@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewData["Title"] = "AddUsertToRole";
+}
+
+<div class="bg-primary m-1 p-1 text-white"><h4>AddUsertToRole</h4></div>
+
+<form asp-action="AddUsertToRole" method="post">
+    <div class="form-group">
+        <select name="iduser" asp-items="@(new SelectList(ViewBag.u,"Id","FirstName"))" class="form-control">
+            <option>Please select User</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <select name="idrole" asp-items="@(new SelectList(ViewBag.r,"Id","Name"))"   class="form-control">
+            <option>Please select Role</option>
+        </select>
+
+       
+    </div>
+    <button type="submit" class="btn btn-primary">Create</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+
+</form>
+

@@ -1,0 +1,9 @@
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\CSPXss\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\CSPXss\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\CSPXss\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\CSPXss\bin\Debug\netcoreapp2.1\CSPXss.deps.json
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\CSPXss\bin\Debug\netcoreapp2.1\CSPXss.runtimeconfig.json
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\CSPXss\bin\Debug\netcoreapp2.1\CSPXss.runtimeconfig.dev.json
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\CSPXss\bin\Debug\netcoreapp2.1\CSPXss.dll
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\CSPXss\obj\Debug\netcoreapp2.1\CSPXss.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\CSPXss\obj\Debug\netcoreapp2.1\CSPXss.AssemblyInfo.cs

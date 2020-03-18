@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewData["Title"] = "TestApi";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+ 
+
+<div class="bg-light" id="cd">
+    Click
+</div>
+<div class="row">
+
+    <div class="col-6">
+        <table id="tbDetails" class="table table-bordered">
+            <tbody>
+                <tr>
+                    <th>Id</th>
+                    <th>FirstName</th>
+                    <th>LastName</th>
+                </tr>
+            </tbody>
+            <tbody>
+            </tbody>
+
+        </table>
+    </div>
+
+    <div class="col-6">
+        <form method="post" id="my_form">
+
+            <div class="form-group">
+                <label>FirstName</label>
+                <input type="text" Name="FirstName" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label>LastName</label>
+                <input type="text" name="LastName" class="form-control" />
+            </div>
+
+            <input type="submit" value="Save" id="click" />
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts{ 
+    <script src="~/Script/Main.js"></script>
+}
+   

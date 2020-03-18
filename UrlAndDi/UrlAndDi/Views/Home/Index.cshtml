@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+    <div class="text-center">
+        <h1 class="display-4">Welcome</h1>
+
+        <a asp-action="Index" asp-controller="Home">
+            No Id No Slug
+        </a>
+
+        <a asp-action="Index" asp-controller="Home" asp-route-Slug="Slug3">
+            no id Slug3 add route 3 parameter
+        </a>
+
+        <a asp-action="Index" asp-controller="Home" asp-route-Id="3" asp-route-Slug="Slug3">
+            id=3 and Slug=3
+        </a>
+        <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    </div>

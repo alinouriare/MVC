@@ -1,0 +1,12 @@
+C:\Users\AliNouri\Desktop\Core\MVC\Filters\Filters\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\AliNouri\Desktop\Core\MVC\Filters\Filters\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\AliNouri\Desktop\Core\MVC\Filters\Filters\bin\Debug\netcoreapp2.1\Filters.deps.json
+C:\Users\AliNouri\Desktop\Core\MVC\Filters\Filters\bin\Debug\netcoreapp2.1\Filters.runtimeconfig.json
+C:\Users\AliNouri\Desktop\Core\MVC\Filters\Filters\bin\Debug\netcoreapp2.1\Filters.runtimeconfig.dev.json
+C:\Users\AliNouri\Desktop\Core\MVC\Filters\Filters\bin\Debug\netcoreapp2.1\Filters.dll
+C:\Users\AliNouri\Desktop\Core\MVC\Filters\Filters\obj\Debug\netcoreapp2.1\Filters.csprojAssemblyReference.cache
+C:\Users\AliNouri\Desktop\Core\MVC\Filters\Filters\obj\Debug\netcoreapp2.1\Filters.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\Core\MVC\Filters\Filters\obj\Debug\netcoreapp2.1\Filters.AssemblyInfo.cs
+C:\Users\AliNouri\Desktop\Core\MVC\Filters\Filters\bin\Debug\netcoreapp2.1\Filters.pdb
+C:\Users\AliNouri\Desktop\Core\MVC\Filters\Filters\obj\Debug\netcoreapp2.1\Filters.dll
+C:\Users\AliNouri\Desktop\Core\MVC\Filters\Filters\obj\Debug\netcoreapp2.1\Filters.pdb

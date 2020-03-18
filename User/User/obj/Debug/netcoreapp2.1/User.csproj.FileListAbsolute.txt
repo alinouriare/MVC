@@ -1,0 +1,13 @@
+C:\Users\AliNouri\Desktop\Core\MVC\User\User\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\AliNouri\Desktop\Core\MVC\User\User\bin\Debug\netcoreapp2.1\User.deps.json
+C:\Users\AliNouri\Desktop\Core\MVC\User\User\bin\Debug\netcoreapp2.1\User.runtimeconfig.json
+C:\Users\AliNouri\Desktop\Core\MVC\User\User\bin\Debug\netcoreapp2.1\User.runtimeconfig.dev.json
+C:\Users\AliNouri\Desktop\Core\MVC\User\User\bin\Debug\netcoreapp2.1\User.dll
+C:\Users\AliNouri\Desktop\Core\MVC\User\User\obj\Debug\netcoreapp2.1\User.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\Core\MVC\User\User\obj\Debug\netcoreapp2.1\User.AssemblyInfo.cs
+C:\Users\AliNouri\Desktop\Core\MVC\User\User\bin\Debug\netcoreapp2.1\User.pdb
+C:\Users\AliNouri\Desktop\Core\MVC\User\User\obj\Debug\netcoreapp2.1\User.dll
+C:\Users\AliNouri\Desktop\Core\MVC\User\User\obj\Debug\netcoreapp2.1\User.pdb
+C:\Users\AliNouri\Desktop\Core\MVC\User\User\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\AliNouri\Desktop\Core\MVC\User\User\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\AliNouri\Desktop\Core\MVC\User\User\obj\Debug\netcoreapp2.1\User.csprojAssemblyReference.cache

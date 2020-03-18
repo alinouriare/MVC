@@ -1,0 +1,13 @@
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\SecurityHSTS\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\SecurityHSTS\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\SecurityHSTS\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\SecurityHSTS\bin\Debug\netcoreapp2.1\SecurityHSTS.deps.json
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\SecurityHSTS\bin\Debug\netcoreapp2.1\SecurityHSTS.runtimeconfig.json
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\SecurityHSTS\bin\Debug\netcoreapp2.1\SecurityHSTS.runtimeconfig.dev.json
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\SecurityHSTS\bin\Debug\netcoreapp2.1\SecurityHSTS.dll
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\SecurityHSTS\bin\Debug\netcoreapp2.1\SecurityHSTS.pdb
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\SecurityHSTS\obj\Debug\netcoreapp2.1\SecurityHSTS.csprojAssemblyReference.cache
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\SecurityHSTS\obj\Debug\netcoreapp2.1\SecurityHSTS.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\SecurityHSTS\obj\Debug\netcoreapp2.1\SecurityHSTS.AssemblyInfo.cs
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\SecurityHSTS\obj\Debug\netcoreapp2.1\SecurityHSTS.dll
+C:\Users\AliNouri\Desktop\Core\MVC\SecurityHSTS\SecurityHSTS\obj\Debug\netcoreapp2.1\SecurityHSTS.pdb

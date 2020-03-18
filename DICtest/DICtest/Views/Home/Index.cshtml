@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Product>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="~/twitter-bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body class="m-1 p-1">
+
+
+
+    @if (ViewData.Model.Count() > 0)
+    {
+        <table class="table table-bordered table-sm table-striped">
+
+            @foreach (var kvp in ViewData.Model)
+            {
+                <tr><td>@kvp.Name</td><td>@kvp.Price</td></tr>
+            }
+        </table>
+
+    }
+    else
+    {
+        <table class="table table-bordered table-sm table-striped">
+
+
+            <tr><td>Name</td><td>Price</td></tr>
+
+        </table>
+    }
+
+
+</body>
+
+</html>

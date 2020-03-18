@@ -1,0 +1,17 @@
+﻿@model List<IdentityRole>
+    <div class="row">
+        <div class="col-6">
+
+            <table class="table table-bordered" >
+                <tr><th>Name:</th></tr>
+                @foreach (IdentityRole name in Model)
+                {
+                    <tr>
+                        <td>
+                            @name.Name
+                        </td>
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
